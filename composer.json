@@ -1,0 +1,21 @@
+{
+    "name": "patricmutwiri/archive",
+    "description": "Archive database tables which have grown over time to different tables,time-suffixed, to free commonly-used tables of this dead weight.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrick Mutwiri",
+            "email": "patwiri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "archive": "src/"
+        }
+    }
+}
