@@ -10,12 +10,25 @@ namespace Patricmutwiri\Archive;
 
 class Archive
 {
+    private $dbs;
+    private $tables;
+    private $date_from;
+    private $date_to;
+    private $tstamp;
+    private $confs;
 
     /**
      * Archive constructor.
      */
     public function __construct()
     {
+        $this->confs = parse_ini_file("../config/settings.ini",true) ?? null;
+        $this->dbs      = getenv('DATABASES');
+        $this->tables   = getenv('TABLES');
+        $this->tstamp   = date("Ymdhis");
+
+        $from   = getenv('ARCHIVE_FROM');
+        $to     = getenv('ARCHIVE_TO');
     }
 
     /*
@@ -23,7 +36,7 @@ class Archive
      * */
     public function getDatabases()
     {
-
+        return $this->dbs;
     }
 
     /*
@@ -31,11 +44,15 @@ class Archive
      * */
     public function getTables()
     {
-
+        return $this->tables;
     }
 
     public function getName(string $string)
     {
         return $string; // test
+    }
+
+    public function confs() {
+        return print_r($this->confs);
     }
 }

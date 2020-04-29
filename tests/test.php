@@ -7,13 +7,16 @@
 
 use Patricmutwiri\Archive\Archive;
 use PHPUnit\Framework\TestCase;
+include "../vendor/autoload.php";
 
-class SampleTest extends TestCase
+class Tests extends TestCase
 {
-    public function testSample()
+    public function test()
     {
-        $testName = new Archive();
-        $name = (new Archive())->getName('test');
+        $archive = new Archive();
+        $confs = $archive->confs();
+        print_r($confs);
+        $name = $archive->getName('test');
         $this->assertEquals($name, 'Mutwiri');
     }
 }

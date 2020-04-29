@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a2dcb4-715b-4eb9-88a8-819b7a7482b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/db-archive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/db-archive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patricmutwiri/Archive/Archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patricmutwiri/Archive/Archive.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1bDSLGoTilEJUb5tm3swgdcXXQv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,28 +42,45 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Patricmutwiri" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/config" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.SampleTest">
-    <configuration name="SampleTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="SampleTest" file="$PROJECT_DIR$/tests/test.php" scope="Class" />
+  <component name="RunManager" selected="PHPUnit.Tests.test">
+    <configuration name="SampleTest (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="tests\SampleTest" file="$PROJECT_DIR$/tests/test.php" scope="Class" />
       <method v="2" />
     </configuration>
-    <configuration name="SampleTest.testSample" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="SampleTest" file="$PROJECT_DIR$/tests/test.php" method="testSample" scope="Method" />
+    <configuration name="Tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests" file="$PROJECT_DIR$/tests/test.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests.test" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests" file="$PROJECT_DIR$/tests/test.php" method="test" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Archive.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/Patricmutwiri/Archive/Archive.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tests/test.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHPUnit.SampleTest" />
-        <item itemvalue="PHPUnit.SampleTest.testSample" />
+        <item itemvalue="PHPUnit.Tests.test" />
+        <item itemvalue="PHP Script.Archive.php" />
+        <item itemvalue="PHPUnit.Tests" />
+        <item itemvalue="PHP Script.test.php" />
+        <item itemvalue="PHPUnit.SampleTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -68,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588165114325</updated>
       <workItem from="1588165120210" duration="2471000" />
-      <workItem from="1588169535719" duration="10441000" />
+      <workItem from="1588169535719" duration="17240000" />
     </task>
     <servers />
   </component>
@@ -92,6 +119,10 @@
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="809" y="145" width="824" height="679" key="#Test_Frameworks/0.0.1920.1059@0.0.1920.1059" timestamp="1588181698674" />
+    <state x="418" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588191891621">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state x="418" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588191891621" />
     <state x="638" y="334" width="633" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588178644951">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
@@ -100,22 +131,22 @@
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1059@0.0.1920.1059" timestamp="1588181352036" />
-    <state width="1878" height="283" key="GridCell.Tab.0.bottom" timestamp="1588183828514">
+    <state width="1878" height="283" key="GridCell.Tab.0.bottom" timestamp="1588193999022">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1059@0.0.1920.1059" timestamp="1588183828514" />
-    <state width="1878" height="283" key="GridCell.Tab.0.center" timestamp="1588183828511">
+    <state width="1878" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1059@0.0.1920.1059" timestamp="1588193999022" />
+    <state width="1878" height="283" key="GridCell.Tab.0.center" timestamp="1588193999021">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.0.center/0.0.1920.1059@0.0.1920.1059" timestamp="1588183828511" />
-    <state width="1878" height="283" key="GridCell.Tab.0.left" timestamp="1588183828510">
+    <state width="1878" height="283" key="GridCell.Tab.0.center/0.0.1920.1059@0.0.1920.1059" timestamp="1588193999021" />
+    <state width="1878" height="283" key="GridCell.Tab.0.left" timestamp="1588193999021">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.0.left/0.0.1920.1059@0.0.1920.1059" timestamp="1588183828510" />
-    <state width="1878" height="283" key="GridCell.Tab.0.right" timestamp="1588183828513">
+    <state width="1878" height="283" key="GridCell.Tab.0.left/0.0.1920.1059@0.0.1920.1059" timestamp="1588193999021" />
+    <state width="1878" height="283" key="GridCell.Tab.0.right" timestamp="1588193999021">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.0.right/0.0.1920.1059@0.0.1920.1059" timestamp="1588183828513" />
+    <state width="1878" height="283" key="GridCell.Tab.0.right/0.0.1920.1059@0.0.1920.1059" timestamp="1588193999021" />
     <state x="765" y="347" width="380" height="358" key="NewPhpClassDialog" timestamp="1588179384542">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
