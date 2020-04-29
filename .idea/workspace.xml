@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a2dcb4-715b-4eb9-88a8-819b7a7482b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Patricmutwiri/Archive/Archive.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/db-archive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/db-archive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patricmutwiri/Archive/Archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patricmutwiri/Archive/Archive.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1bDSLGoTilEJUb5tm3swgdcXXQv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stima" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -43,6 +45,22 @@
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/config" />
     </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.SampleTest.testSample">
+    <configuration name="SampleTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SampleTest" file="$PROJECT_DIR$/tests/test.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SampleTest.testSample" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SampleTest" file="$PROJECT_DIR$/tests/test.php" method="testSample" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.SampleTest.testSample" />
+        <item itemvalue="PHPUnit.SampleTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588165114325</updated>
       <workItem from="1588165120210" duration="2471000" />
-      <workItem from="1588169535719" duration="5999000" />
+      <workItem from="1588169535719" duration="9097000" />
     </task>
     <servers />
   </component>
@@ -67,14 +85,42 @@
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="555" y="190" width="800" height="672" key="#Composer/0.0.1920.1059@0.0.1920.1059" timestamp="1588169540907" />
+    <state x="589" y="119" width="721" height="808" key="#PHP" timestamp="1588181298691">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state x="589" y="119" width="721" height="808" key="#PHP/0.0.1920.1059@0.0.1920.1059" timestamp="1588181298691" />
+    <state x="592" y="128" width="725" height="795" key="#SampleTest.testSample" timestamp="1588181304619">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state x="592" y="128" width="725" height="795" key="#SampleTest.testSample/0.0.1920.1059@0.0.1920.1059" timestamp="1588181304619" />
+    <state x="809" y="145" width="824" height="679" key="#Test_Frameworks" timestamp="1588181698674">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state x="809" y="145" width="824" height="679" key="#Test_Frameworks/0.0.1920.1059@0.0.1920.1059" timestamp="1588181698674" />
     <state x="638" y="334" width="633" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588178644951">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="638" y="334" width="633" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1059@0.0.1920.1059" timestamp="1588178644951" />
-    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl" timestamp="1588176389252">
+    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl" timestamp="1588181352036">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1059@0.0.1920.1059" timestamp="1588176389252" />
+    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1059@0.0.1920.1059" timestamp="1588181352036" />
+    <state width="1878" height="283" key="GridCell.Tab.0.bottom" timestamp="1588183812251">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state width="1878" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1059@0.0.1920.1059" timestamp="1588183812251" />
+    <state width="1878" height="283" key="GridCell.Tab.0.center" timestamp="1588183812251">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state width="1878" height="283" key="GridCell.Tab.0.center/0.0.1920.1059@0.0.1920.1059" timestamp="1588183812251" />
+    <state width="1878" height="283" key="GridCell.Tab.0.left" timestamp="1588183812250">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state width="1878" height="283" key="GridCell.Tab.0.left/0.0.1920.1059@0.0.1920.1059" timestamp="1588183812250" />
+    <state width="1878" height="283" key="GridCell.Tab.0.right" timestamp="1588183812251">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state width="1878" height="283" key="GridCell.Tab.0.right/0.0.1920.1059@0.0.1920.1059" timestamp="1588183812251" />
     <state x="765" y="347" width="380" height="358" key="NewPhpClassDialog" timestamp="1588179384542">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
@@ -91,9 +137,9 @@
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="618" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588165141529" />
-    <state x="721" y="155" width="483" height="741" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1588173627396">
+    <state x="721" y="155" width="483" height="741" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1588180964786">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state x="721" y="155" width="483" height="741" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588173627396" />
+    <state x="721" y="155" width="483" height="741" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588180964786" />
   </component>
 </project>

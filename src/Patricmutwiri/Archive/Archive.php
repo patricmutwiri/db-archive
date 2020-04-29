@@ -36,6 +36,6 @@ class Archive
 
     public function getName(string $string)
     {
-        return 'Mutwiri'; // test
+        return $string; // test
     }
 }

@@ -1,7 +1,7 @@
 {
     "name": "patricmutwiri/archive",
     "description": "Archive database tables which have grown over time to different tables,time-suffixed, to free commonly-used tables of this dead weight.",
-    "keywords": ["archive","data archiving", "database", "sql","php"],,
+    "keywords": ["archive","data archiving", "database", "sql","php"],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -22,6 +22,6 @@
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "4.4.*"
+        "phpunit/phpunit": "^6"
     }
 }

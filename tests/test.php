@@ -5,13 +5,15 @@
  * @patric_mutwiri
  */
 
-class SampleTest extends PHPUnit_Framework_TestCase
-{
+use Patricmutwiri\Archive\Archive;
+use PHPUnit\Framework\TestCase;
 
+class SampleTest extends TestCase
+{
     public function testSample()
     {
-        $testName = new Patricmutwiri\Archive\Archive();
-        $name = $testName->getName('test');
+        $testName = new Archive();
+        $name = (new Archive())->getName('test');
         $this->assertEquals($name, 'Mutwiri');
     }
 }
