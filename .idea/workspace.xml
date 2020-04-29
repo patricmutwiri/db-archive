@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a2dcb4-715b-4eb9-88a8-819b7a7482b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/db-archive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/db-archive.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588165114325</updated>
       <workItem from="1588165120210" duration="2471000" />
-      <workItem from="1588169535719" duration="639000" />
+      <workItem from="1588169535719" duration="2534000" />
     </task>
     <servers />
   </component>
@@ -58,13 +60,25 @@
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="555" y="190" width="800" height="672" key="#Composer/0.0.1920.1059@0.0.1920.1059" timestamp="1588169540907" />
-    <state x="494" y="163" key="SettingsEditor" timestamp="1588169555136">
+    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl" timestamp="1588173539832">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state x="494" y="163" key="SettingsEditor/0.0.1920.1059@0.0.1920.1059" timestamp="1588169555136" />
+    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1059@0.0.1920.1059" timestamp="1588173539832" />
+    <state x="767" y="455" width="375" height="142" key="NewPhpFileDialog" timestamp="1588173778032">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state x="767" y="455" width="375" height="142" key="NewPhpFileDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588173778032" />
+    <state x="494" y="163" key="SettingsEditor" timestamp="1588173768685">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state x="494" y="163" key="SettingsEditor/0.0.1920.1059@0.0.1920.1059" timestamp="1588173768685" />
     <state x="618" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1588165141529">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="618" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588165141529" />
+    <state x="721" y="155" width="483" height="741" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1588173627396">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state x="721" y="155" width="483" height="741" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588173627396" />
   </component>
 </project>

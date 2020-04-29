@@ -1,12 +1,15 @@
 {
     "name": "patricmutwiri/archive",
     "description": "Archive database tables which have grown over time to different tables,time-suffixed, to free commonly-used tables of this dead weight.",
+    "keywords": ["archive","data archiving", "database", "sql","php"],,
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Patrick Mutwiri",
-            "email": "patwiri@gmail.com"
+            "email": "patwiri@gmail.com",
+            "homepage": "https://patric.xyz",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
