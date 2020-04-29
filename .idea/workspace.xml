@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a2dcb4-715b-4eb9-88a8-819b7a7482b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/db-archive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/db-archive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/config/.env.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +32,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stima" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588165114325</updated>
       <workItem from="1588165120210" duration="2471000" />
-      <workItem from="1588169535719" duration="2534000" />
+      <workItem from="1588169535719" duration="4130000" />
     </task>
     <servers />
   </component>
@@ -60,10 +63,14 @@
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="555" y="190" width="800" height="672" key="#Composer/0.0.1920.1059@0.0.1920.1059" timestamp="1588169540907" />
-    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl" timestamp="1588173539832">
+    <state x="638" y="334" width="633" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588178644951">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1059@0.0.1920.1059" timestamp="1588173539832" />
+    <state x="638" y="334" width="633" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1059@0.0.1920.1059" timestamp="1588178644951" />
+    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl" timestamp="1588176389252">
+      <screen x="0" y="0" width="1920" height="1059" />
+    </state>
+    <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1059@0.0.1920.1059" timestamp="1588176389252" />
     <state x="767" y="455" width="375" height="142" key="NewPhpFileDialog" timestamp="1588173778032">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
