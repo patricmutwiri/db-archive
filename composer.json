@@ -17,8 +17,11 @@
         "php": ">=7.0"
     },
     "autoload": {
-        "psr-0": {
-            "archive": "src/"
+        "psr-4": {
+            "Patricmutwiri\\Archive\\": "src/Patricmutwiri/Archive"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.4.*"
     }
 }
