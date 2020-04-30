@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a2dcb4-715b-4eb9-88a8-819b7a7482b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/db-archive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/db-archive.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.example.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.example.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Patricmutwiri/Archive/Archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patricmutwiri/Archive/Archive.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -43,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -96,6 +93,7 @@
       <updated>1588165114325</updated>
       <workItem from="1588165120210" duration="2471000" />
       <workItem from="1588169535719" duration="17240000" />
+      <workItem from="1588234044483" duration="13472000" />
     </task>
     <servers />
   </component>
@@ -131,22 +129,22 @@
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="737" y="283" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1059@0.0.1920.1059" timestamp="1588181352036" />
-    <state width="1878" height="283" key="GridCell.Tab.0.bottom" timestamp="1588193999022">
+    <state width="1878" height="283" key="GridCell.Tab.0.bottom" timestamp="1588194092402">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1059@0.0.1920.1059" timestamp="1588193999022" />
-    <state width="1878" height="283" key="GridCell.Tab.0.center" timestamp="1588193999021">
+    <state width="1878" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1059@0.0.1920.1059" timestamp="1588194092402" />
+    <state width="1878" height="283" key="GridCell.Tab.0.center" timestamp="1588194092401">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.0.center/0.0.1920.1059@0.0.1920.1059" timestamp="1588193999021" />
-    <state width="1878" height="283" key="GridCell.Tab.0.left" timestamp="1588193999021">
+    <state width="1878" height="283" key="GridCell.Tab.0.center/0.0.1920.1059@0.0.1920.1059" timestamp="1588194092401" />
+    <state width="1878" height="283" key="GridCell.Tab.0.left" timestamp="1588194092401">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.0.left/0.0.1920.1059@0.0.1920.1059" timestamp="1588193999021" />
-    <state width="1878" height="283" key="GridCell.Tab.0.right" timestamp="1588193999021">
+    <state width="1878" height="283" key="GridCell.Tab.0.left/0.0.1920.1059@0.0.1920.1059" timestamp="1588194092401" />
+    <state width="1878" height="283" key="GridCell.Tab.0.right" timestamp="1588194092402">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.0.right/0.0.1920.1059@0.0.1920.1059" timestamp="1588193999021" />
+    <state width="1878" height="283" key="GridCell.Tab.0.right/0.0.1920.1059@0.0.1920.1059" timestamp="1588194092402" />
     <state x="765" y="347" width="380" height="358" key="NewPhpClassDialog" timestamp="1588179384542">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
@@ -155,14 +153,14 @@
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
     <state x="767" y="455" width="375" height="142" key="NewPhpFileDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588173778032" />
-    <state x="494" y="163" key="SettingsEditor" timestamp="1588173768685">
+    <state x="494" y="163" key="SettingsEditor" timestamp="1588236597097">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state x="494" y="163" key="SettingsEditor/0.0.1920.1059@0.0.1920.1059" timestamp="1588173768685" />
-    <state x="618" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1588165141529">
+    <state x="494" y="163" key="SettingsEditor/0.0.1920.1059@0.0.1920.1059" timestamp="1588236597097" />
+    <state x="618" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1588234152258">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
-    <state x="618" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588165141529" />
+    <state x="618" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1059@0.0.1920.1059" timestamp="1588234152258" />
     <state x="721" y="155" width="483" height="741" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1588180964786">
       <screen x="0" y="0" width="1920" height="1059" />
     </state>
